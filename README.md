@@ -2,6 +2,8 @@
 
 SJCEM session on TFLite
 
-## Colab Notebook
+### Colab Notebook
+Tflite_Walkthrough.ipynb
 
-## Android Project
+### Android Project
+Running the Tflite file on the Android phones
